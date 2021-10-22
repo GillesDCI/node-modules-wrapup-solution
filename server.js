@@ -1,5 +1,5 @@
 const fs = require('fs');
-const MathModule = require('./MyModules/MathModule');
+const MathModule = require('./mymodules/math-module');
 
 require('dotenv').config();
 
